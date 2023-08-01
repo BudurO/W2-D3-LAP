@@ -56,7 +56,9 @@ header {
   text-align: center;
   margin-bottom: 60px;
 }
-
+.img-card-box{
+  margin-bottom: 20px;
+}
 .img-1 {
   display: flex;
 }
@@ -138,3 +140,4 @@ header {
   font-weight: 500;
   font-size: 18px;
 }
+
