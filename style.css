@@ -1,0 +1,140 @@
+* {
+  padding: 0;
+  font-family: Inter, sans-serif;
+}
+body {
+  background-color: #0e0e0e;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar-items {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin-top: 9px;
+}
+.logo {
+  margin-top: 32px;
+}
+
+.nav-items {
+  color: white;
+  margin: 20px;
+}
+.purchase {
+  margin-right: 9px;
+  border: 1px solid white;
+  padding: 20px 50px;
+  background-color: white;
+  color: #0e0e0e;
+  margin-top: 0;
+  font-weight: 500;
+}
+.text-Themebau {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.Themebau {
+  color: white;
+  font-weight: 300;
+  font-size: 6.25em;
+  margin-bottom: 0;
+}
+.Themebau-stylish-all {
+  display: flex;
+  justify-content: center;
+}
+.Themebau-stylish {
+  color: white;
+  font-size: 1.0625em;
+  font-weight: 100;
+  width: 540px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.img-1 {
+  display: flex;
+}
+.img-card {
+  display: flex;
+  flex-direction: column;
+}
+.card-title {
+  color: white;
+  margin-left: 180px;
+}
+.img-card .img-1 img {
+  display: flex;
+  width: 368px;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.img-demo {
+  background-color: white;
+  height: 1280px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+.img-demo-sec {
+  display: flex;
+  justify-content: space-around;
+}
+.img-demo-1 img {
+  width: 470px;
+  display: flex;
+  margin-left: 40px;
+  position: relative;
+  top: 80px;
+}
+
+.img-demo-2 img {
+  width: 470px;
+  width: 470px;
+  display: flex;
+  margin-left: 40px;
+  position: relative;
+  bottom: -10px;
+  left: 200px;
+}
+.textdemo {
+  margin-top: 180px;
+  width: 400px;
+}
+.text-Themebau-layouts {
+  margin-left: 100px;
+}
+.view-pages {
+  padding: 15px 40px;
+  background-color: #0e0e0e;
+  border-color: #0e0e0e;
+  border-width: 0;
+  color: white;
+  margin-left: 100px;
+  margin-top: 32px;
+}
+.tow-box {
+  display: flex;
+  flex-direction: column;
+}
+.img-svg {
+  display: flex;
+  justify-content: space-around;
+}
+
+.border-box {
+  width: 200px;
+  background-color: rgb(96, 96, 96);
+  height: 200px;
+}
+.text-and-more {
+  text-align: center;
+  font-weight: 500;
+  font-size: 18px;
+}
